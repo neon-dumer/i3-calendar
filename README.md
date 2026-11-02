@@ -370,4 +370,4 @@ No automated test suite is included. Before submitting a change, check Python an
 
 ## License
 
-No license terms have been specified yet; the repository's `LICENSE` file is currently empty.
+This project is licensed under the [MIT License](LICENSE).
