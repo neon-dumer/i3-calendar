@@ -1,0 +1,35 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local tool caches
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# Editor settings and temporary files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+*.rej
+
+# Local environment files and credentials
+.env
+.env.*
+!.env.example
+/.aws/
+
+# Local agent settings
+/.codex/
+/.agents/
+
+# Logs and desktop metadata
+*.log
+.DS_Store
+Thumbs.db
